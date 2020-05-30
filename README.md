@@ -30,5 +30,4 @@ Au départ du projet, nous n'avions pas encore appris à utiliser React, c'est d
 L'api de cuisine est limitée en nombre de requêtes, il est donc possible que notre mascotte soit déboussolé, si cela devait vous arriver, attendez quelques instants, et rafraichissez la page.
 
 ### A propos
-Retrouvez-nous sur Linkedin:  
-[Clem](https://www.linkedin.com/in/clementine-derome/), [Tada](https://www.linkedin.com/in/tadatoshimiura/), [Nico](https://www.linkedin.com/in/nicolas-regnier-dev/), [Helder](https://www.linkedin.com/in/helder-fernandes-soares/), [Jerko (moi)](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poti%C3%A9/)
+Retrouvez-nous sur Linkedin: [Clem](https://www.linkedin.com/in/clementine-derome/), [Tada](https://www.linkedin.com/in/tadatoshimiura/), [Nico](https://www.linkedin.com/in/nicolas-regnier-dev/), [Helder](https://www.linkedin.com/in/helder-fernandes-soares/), [Jerko (moi)](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poti%C3%A9/)
