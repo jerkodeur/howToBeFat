@@ -1,6 +1,8 @@
+
+# HowToBeFat
 ![](https://media-exp1.licdn.com/dms/image/C562DAQHE7_NQaKfUDQ/profile-treasury-image-shrink_480_480/0?e=1590930000&v=beta&t=OCsXP6uTp1UXIraslFO-ZchGWEtI4SojPe1ZdEjq_y8)
 
-Site: https://how-to-be-fat.netlify.app/
+### [Voir le site](https://how-to-be-fat.netlify.app/)
 
 ### Description
 Le but de cette application est de permettre aux personnes qui n'arrivent pas à grossir d'obtenir des conseils coaching, des recettes bien caloriques 🥘 et des bières pour accompagner leurs repas 🍺🍺🍺 !
