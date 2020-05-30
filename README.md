@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Site: https://how-to-be-fat.netlify.app/
 
-## Available Scripts
+### Description
+Le but de cette application est de permettre aux personnes qui n'arrivent pas à grossir d'obtenir des conseils coaching, des recettes bien caloriques 🥘 et des bières pour accompagner leurs repas 🍺🍺🍺 !
+Le tout dans une ambiance fun et gourmande ! 
+Venez tester !!! 🍔🍔🍔
 
-In the project directory, you can run:
+### Contexte
+Deuxième projet fictif réalisé à la [Wild Code School](https://www.wildcodeschool.com/fr-FR)
+Projet en full React conçu par une équipe de 4 developpeurs en apprentissage et pendant une durée de 4 semaines.
 
-### `npm start`
+Celui-ci à été mené entièrement à distance du fait du Covid19, en suivant le concept Scrum et la méthodologie agile.
+Au départ du projet, nous n'avions pas encore appris à utiliser React, c'est donc en partant de zéro que nous nous sommes lancés dans la réalisation de cette application.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Fonctionnalités
+- Une recette aléatoire vous est proposé chaque jour, accompagnée de sa bière et de son conseil coaching
+- Faites une recherche personnalisée de recettes, sélectionnez vos ingrédients, régimes spéciaux, définissez un nombre de calorie minimal et/ou un temps de préparation à ne pas dépasser
+- Recherchez votre bière selon un nombre de degré d'alcool minimum
+- Définissez-vous un objectif de poids à atteindre grâce à notre calculateur de poids
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Caractéristiques techniques
+- L'application a été pensé responsive, en mode mobile first comme il est vivement conseillé de le faire.
+- Afin de fournir les informations nécessaires, nous avons fait appel à 2 API, une pour l'affichage des recettes de cuisine, et l'autre pour les bières.
+- Utilisation de prop-types, des hooks, et de la syntaxe ECMAScript 6 de javascript.
 
-### `npm test`
+### Limitations
+L'api de cuisine est limitée en nombre de requêtes, il est donc possible que notre mascotte soit déboussolé, si cela devait vous arriver, attendez quelques instants, et rafraichissez la page.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### A propos
+Retrouvez-nous sur Linkedin:  
+[Clem](https://www.linkedin.com/in/clementine-derome/), [Tada](https://www.linkedin.com/in/tadatoshimiura/), [Nico](https://www.linkedin.com/in/nicolas-regnier-dev/), [Helder](https://www.linkedin.com/in/helder-fernandes-soares/), [Jerko](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poti%C3%A9/)
