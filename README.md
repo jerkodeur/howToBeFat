@@ -31,4 +31,4 @@ L'api de cuisine est limitée en nombre de requêtes, il est donc possible que n
 
 ### A propos
 Retrouvez-nous sur Linkedin:  
-[Clem](https://www.linkedin.com/in/clementine-derome/), [Tada](https://www.linkedin.com/in/tadatoshimiura/), [Nico](https://www.linkedin.com/in/nicolas-regnier-dev/), [Helder](https://www.linkedin.com/in/helder-fernandes-soares/), [Jerko](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poti%C3%A9/)
+[Clem](https://www.linkedin.com/in/clementine-derome/), [Tada](https://www.linkedin.com/in/tadatoshimiura/), [Nico](https://www.linkedin.com/in/nicolas-regnier-dev/), [Helder](https://www.linkedin.com/in/helder-fernandes-soares/), [Jerko (moi)](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poti%C3%A9/)
