@@ -1,3 +1,5 @@
+![](https://media-exp1.licdn.com/dms/image/C562DAQHE7_NQaKfUDQ/profile-treasury-image-shrink_480_480/0?e=1590930000&v=beta&t=OCsXP6uTp1UXIraslFO-ZchGWEtI4SojPe1ZdEjq_y8)
+
 Site: https://how-to-be-fat.netlify.app/
 
 ### Description
