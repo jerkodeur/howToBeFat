@@ -58,7 +58,7 @@ const RecipeSearch = () => {
     const rangeRequest = nbResults > 0 ? defineRangeNumber(nbResults) : ''
 
     // url which will be send to the API request
-    return `https://api.edamam.com/search?q=${ingredients}${calories}${rangeRequest}${userDiets}${intolerables}${excludes}${preparationTime}&app_id=812f083c&app_key=57cd06930f1a1d5818380b512897cc58`
+    return `https://api.edamam.com/search?q=${ingredients}${calories}${rangeRequest}${userDiets}${intolerables}${excludes}${preparationTime}&app_id=444702cc&app_key=bc846dfb309ce7532dcc7d629285c733`
   }
 
   // We verify if the number of results are define
