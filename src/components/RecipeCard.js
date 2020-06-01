@@ -18,7 +18,7 @@ class RecipeCard extends React.Component {
     const max = min + 100
     const minCalories = 100000
     const maxCalories = minCalories + 100000
-    let url = `https://api.edamam.com/search?q=${selectedIngredients}&from=${min}&to=${max}&calories=${minCalories}-${maxCalories}&app_id=812f083c&app_key=57cd06930f1a1d5818380b512897cc58`
+    let url = `https://api.edamam.com/search?q=${selectedIngredients}&from=${min}&to=${max}&calories=${minCalories}-${maxCalories}&app_id=444702cc&app_key=bc846dfb309ce7532dcc7d629285c733`
 
     axios.get(url)
       .then((res) => {
