@@ -8,7 +8,7 @@ class DisplayRecipe extends React.Component {
 
   render() {
     const { label, image } = { ...this.props.recipe }
-    const calories = Math.round(this.props.calories)
+    const calories = Math.Round(this.props.calories)
     return (
       <div className="DisplayRecipe">
         <div className="card">
