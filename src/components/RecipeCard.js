@@ -16,8 +16,8 @@ class RecipeCard extends React.Component {
     let selectedIngredients = `${ingredientsArray[Math.floor(Math.random() * ingredientsArray.length)]}`
     const min = 0
     const max = min + 100
-    const minCalories = 2500
-    const maxCalories = minCalories + 2500
+    const minCalories = 1000
+    const maxCalories = minCalories + 3500
     let url = `https://api.edamam.com/search?q=${selectedIngredients}&from=${min}&to=${max}&calories=${minCalories}-${maxCalories}&app_id=444702cc&app_key=bc846dfb309ce7532dcc7d629285c733`
 
     axios.get(url)
